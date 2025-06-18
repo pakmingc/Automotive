@@ -56,7 +56,7 @@
 ## 📂 Project Structure
 ```
 Assets/
-  Scripts/         # C# scripts (VehicleMover, HelloWorld_2, etc)
+  Scripts/         # C# scripts (VehicleMover)
   Scenes/          # Unity scenes
   Materials/       # Materials for rendering
   PolygonStarter/  # Starter assets
