@@ -84,9 +84,10 @@ See above for in-game visuals!
 
 ---
 
+## 📫 Contact
+
+📧 pakmingc2@gmail.com
+
 ## 📝 License
+
 MIT License. See [LICENSE](LICENSE) for details.
-
----
-
-> Like this project? ⭐ Star it on GitHub!
